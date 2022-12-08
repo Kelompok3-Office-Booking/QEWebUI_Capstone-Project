@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
-   <name>WebUI-Capstone_Project</name>
+   <name>WebUI_Capstone-Project</name>
    <tag></tag>
-   <UUID>85367d89-5bb7-475d-92cf-06ab3c9800e8</UUID>
+   <UUID>77bd5781-59b8-4040-b204-8266e79e5d59</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
@@ -25,5 +25,5 @@
       </systemFolderList>
    </sourceContent>
    <timeStampInProperties>false</timeStampInProperties>
-   <type>WEBSERVICE</type>
+   <type>WEBUI</type>
 </Project>
