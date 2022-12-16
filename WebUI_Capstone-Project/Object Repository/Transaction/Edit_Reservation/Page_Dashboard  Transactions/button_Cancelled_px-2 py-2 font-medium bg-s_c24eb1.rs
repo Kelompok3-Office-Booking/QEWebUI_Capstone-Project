@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cancelled_px-2 py-2 font-medium bg-s_c24eb1</name>
+   <tag></tag>
+   <elementGuidId>eb4fc600-fe48-4e96-a760-879abe6d0612</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[7]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f2320573-bc76-40cb-a3b6-046872d6c5a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2379aa57-9551-4e88-84fa-70e5e9b4dff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-modal-toggle</name>
+      <type>Main</type>
+      <value>editUserModal</value>
+      <webElementGuid>dae77eb6-264f-42fa-8f3f-8ba21776c3f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-2 py-2 font-medium bg-slate-100 hover:underline rounded-lg hover:bg-blue-600</value>
+      <webElementGuid>ed00c94f-3e3f-4052-a688-e9f095222983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;bg-slate-50&quot;]/div[@class=&quot;flex&quot;]/main[1]/div[@class=&quot;flex content-center justify-center&quot;]/div[@class=&quot;pl-80 duration-500 pt-20 flex justify-center w-screen&quot;]/div[@class=&quot;p-12 bg-slate-50 mb-4 container text-black w-full&quot;]/div[@class=&quot;min-h-screen&quot;]/div[@class=&quot;overflow-x-auto relative shadow-md rounded-2xl&quot;]/table[@class=&quot;w-full text-sm text-left text-gray-500&quot;]/tbody[1]/tr[@class=&quot;bg-white border-b hover:bg-gray-50&quot;]/td[@class=&quot;py-4 px-6 flex gap-2 items-center justify-center&quot;]/button[@class=&quot;px-2 py-2 font-medium bg-slate-100 hover:underline rounded-lg hover:bg-blue-600&quot;]</value>
+      <webElementGuid>8d6a86fe-42f5-4659-a204-72d0e11cc558</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[7]</value>
+      <webElementGuid>62f34d9f-216f-4911-b1a3-2dec572a0cbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div[2]/div/div/div/div[2]/table/tbody/tr[2]/td[9]/button[3]</value>
+      <webElementGuid>57cc2324-6e41-4508-8aeb-b9f81fcf15b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelled'])[1]/following::button[3]</value>
+      <webElementGuid>902df873-a795-4c1b-ac34-b5ed5a489e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp.10,000'])[1]/following::button[3]</value>
+      <webElementGuid>350cc408-4888-4bec-9929-a4055e21a997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='checkbox'])[4]/preceding::button[1]</value>
+      <webElementGuid>4509c48a-b044-408c-b5f2-ecda9d9b127d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Muhammad Bayu 4'])[1]/preceding::button[1]</value>
+      <webElementGuid>cb4db705-9b02-4f7f-a29f-252c43abdfa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[9]/button[3]</value>
+      <webElementGuid>4ddf5f94-cb50-4830-b344-8c983df131f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>b3d330d8-abf7-4816-bb57-59adeba7c291</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

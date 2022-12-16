@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BETTER SPACE</name>
+   <tag></tag>
+   <elementGuidId>e45d26cc-7c26-4295-9e72-42b0ed767985</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/nav/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.flex.items-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d98f1c73-2ea1-4825-a9d6-b575bcb01031</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center</value>
+      <webElementGuid>7d211499-943c-43a0-9d60-86649e8fdbd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>a42cf170-ccc7-4ab0-9fb6-9a43af2b546c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BETTER SPACE</value>
+      <webElementGuid>1a4244f4-a169-46d7-b2c4-1b709019629a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/nav[@class=&quot;bg-white transition ease-in-out duration-300 active px-2 sm:px-4 py-2.5 fixed w-full z-20 top-0 left-0&quot;]/div[@class=&quot;container flex flex-wrap items-center justify-between mx-auto&quot;]/a[@class=&quot;flex items-center&quot;]</value>
+      <webElementGuid>deeb6818-7faa-4433-a97f-ebcfbfcc98f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/nav/div/a</value>
+      <webElementGuid>aa6eee26-446f-4606-8923-250ac0beb2b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open main menu'])[1]/preceding::a[1]</value>
+      <webElementGuid>8f979996-dddb-447b-a2d9-0f317969a021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/login')]</value>
+      <webElementGuid>7d9e91b8-80bc-4ef5-87ac-f617c9c59ee1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a</value>
+      <webElementGuid>b5c11549-ea65-4078-a7c8-79bb3e8dcccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/login' and (text() = 'BETTER SPACE' or . = 'BETTER SPACE')]</value>
+      <webElementGuid>6ba531b1-49e2-4116-a6dd-d5fc07e9e536</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

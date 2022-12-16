@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Click to upload or drag and dropJPG or _ae035c</name>
+   <tag></tag>
+   <elementGuidId>6d9ef4e4-fe9c-4cca-9b91-56640024f4df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/main/div[2]/div/div/div/form/div/div[11]/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.flex-col.items-center.justify-center.pt-5.pb-6</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>08ceb469-da93-46e9-991f-5848160c95ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col items-center justify-center pt-5 pb-6</value>
+      <webElementGuid>78ca5847-f664-4ad8-a8e6-d241b15339d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click to upload or drag and dropJPG or JPEG (MAX. 800x400px)</value>
+      <webElementGuid>01a03c8e-be6f-4cd5-8ecf-24083c17dde1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;bg-slate-50&quot;]/div[@class=&quot;flex&quot;]/main[1]/div[@class=&quot;flex content-center justify-center&quot;]/div[@class=&quot;pl-80 duration-500 pt-20 flex justify-center w-screen&quot;]/div[@class=&quot;p-12 bg-slate-50 mb-4 container text-black w-full&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/form[@class=&quot;bg-white rounded-2xl shadow w-full py-4 px-4 justify-between flex mt-8&quot;]/div[@class=&quot;mx-2 mt-4 mb-4 w-1/2&quot;]/div[@class=&quot;flex items-center pb-6 justify-center w-full&quot;]/label[@class=&quot;flex flex-col items-center justify-center w-full h-40 border-2 border-gray-300 border-dashed rounded-lg cursor-pointer bg-gray-50 dark:hover:bg-bray-800 dark:bg-gray-700 hover:bg-gray-100 dark:border-gray-600 dark:hover:border-gray-500 dark:hover:bg-gray-600&quot;]/div[@class=&quot;flex flex-col items-center justify-center pt-5 pb-6&quot;]</value>
+      <webElementGuid>2227a9ef-784c-4816-8a26-86f186664ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a14b014b-7933-45ab-bd24-ee22815c1af4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col items-center justify-center pt-5 pb-6</value>
+      <webElementGuid>9571ed52-a8b4-4e46-8991-cba5c8d3938d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click to upload or drag and dropJPG or JPEG (MAX. 800x400px)</value>
+      <webElementGuid>371eddc7-c611-48b8-b24a-2fa712551b6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;bg-slate-50&quot;]/div[@class=&quot;flex&quot;]/main[1]/div[@class=&quot;flex content-center justify-center&quot;]/div[@class=&quot;pl-80 duration-500 pt-20 flex justify-center w-screen&quot;]/div[@class=&quot;p-12 bg-slate-50 mb-4 container text-black w-full&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/form[@class=&quot;bg-white rounded-2xl shadow w-full py-4 px-4 justify-between flex mt-8&quot;]/div[@class=&quot;mx-2 mt-4 mb-4 w-1/2&quot;]/div[@class=&quot;flex items-center pb-6 justify-center w-full&quot;]/label[@class=&quot;flex flex-col items-center justify-center w-full h-40 border-2 border-gray-300 border-dashed rounded-lg cursor-pointer bg-gray-50 dark:hover:bg-bray-800 dark:bg-gray-700 hover:bg-gray-100 dark:border-gray-600 dark:hover:border-gray-500 dark:hover:bg-gray-600&quot;]/div[@class=&quot;flex flex-col items-center justify-center pt-5 pb-6&quot;]</value>
+      <webElementGuid>cb475dcd-6f1c-4871-8a75-e64feb5d9ca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a61b3f6d-d1a3-4d4b-b96f-17bb01dacf3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col items-center justify-center pt-5 pb-6</value>
+      <webElementGuid>09af7cd0-dedb-4e41-bc8c-2c29128d4618</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click to upload or drag and dropJPG or JPEG (MAX. 800x400px)</value>
+      <webElementGuid>c52b57b7-8e8c-42ee-925e-735bd1558005</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;bg-slate-50&quot;]/div[@class=&quot;flex&quot;]/main[1]/div[@class=&quot;flex content-center justify-center&quot;]/div[@class=&quot;pl-80 duration-500 pt-20 flex justify-center w-screen&quot;]/div[@class=&quot;p-12 bg-slate-50 mb-4 container text-black w-full&quot;]/div[@class=&quot;flex flex-col w-full&quot;]/form[@class=&quot;bg-white rounded-2xl shadow w-full py-4 px-4 justify-between flex mt-8&quot;]/div[@class=&quot;mx-2 mt-4 mb-4 w-1/2&quot;]/div[@class=&quot;flex items-center pb-6 justify-center w-full&quot;]/label[@class=&quot;flex flex-col items-center justify-center w-full h-40 border-2 border-gray-300 border-dashed rounded-lg cursor-pointer bg-gray-50 dark:hover:bg-bray-800 dark:bg-gray-700 hover:bg-gray-100 dark:border-gray-600 dark:hover:border-gray-500 dark:hover:bg-gray-600&quot;]/div[@class=&quot;flex flex-col items-center justify-center pt-5 pb-6&quot;]</value>
+      <webElementGuid>e04d8fc9-dfd2-4993-8039-4dcadd3bdade</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div[2]/div/div/div/form/div/div[11]/label/div</value>
+      <webElementGuid>c568d15f-6e20-4aff-a481-a6fd37b57cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Longitude'])[1]/following::div[2]</value>
+      <webElementGuid>ef26c595-b0de-4aee-8883-dc3899d45026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latitude'])[1]/following::div[4]</value>
+      <webElementGuid>0bca7e8e-7a4d-4736-9afc-592577137d4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::div[1]</value>
+      <webElementGuid>a554b404-a12c-4cb9-ad88-0280c8932f8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>9dcdaefa-f81a-497e-ab50-b1ba5c239f73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Click to upload or drag and dropJPG or JPEG (MAX. 800x400px)' or . = 'Click to upload or drag and dropJPG or JPEG (MAX. 800x400px)')]</value>
+      <webElementGuid>947de2b8-8875-4391-baf9-c9578f512d40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Rejected</name>
+   <tag></tag>
+   <elementGuidId>6cbf20a1-bb35-4d52-9807-f5e19fd183ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//td[@id='status']/span)[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.bg-red-200.rounded-2xl.border-2.border-red-500.py-1.px-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27269059-bb5d-4420-bca6-602d53a67390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bg-red-200 rounded-2xl border-2 border-red-500 py-1 px-4</value>
+      <webElementGuid>565a9107-84e3-448a-b744-7c40f94e14e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rejected</value>
+      <webElementGuid>5fac6671-93e2-4c0a-98a2-0e8fd59f6fa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;bg-slate-50&quot;]/div[@class=&quot;flex&quot;]/main[1]/div[@class=&quot;flex content-center justify-center&quot;]/div[@class=&quot;pl-80 duration-500 pt-20 flex justify-center w-screen&quot;]/div[@class=&quot;p-12 bg-slate-50 mb-4 container text-black w-full&quot;]/div[@class=&quot;min-h-screen&quot;]/div[@class=&quot;overflow-x-auto relative shadow-md rounded-2xl&quot;]/table[@class=&quot;w-full text-sm text-left text-gray-500&quot;]/tbody[1]/tr[@class=&quot;bg-white border-b hover:bg-gray-50&quot;]/td[@id=&quot;status&quot;]/span[@class=&quot;bg-red-200 rounded-2xl border-2 border-red-500 py-1 px-4&quot;]</value>
+      <webElementGuid>775d168a-b8da-4840-bc93-9763fc387ea2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//td[@id='status']/span)[4]</value>
+      <webElementGuid>b0eeffa4-78a7-4c1d-97b5-186375ed1458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp.10,000'])[3]/following::span[1]</value>
+      <webElementGuid>ee07b800-e153-4330-98d9-637f8e5a1d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coworking Space'])[4]/following::span[1]</value>
+      <webElementGuid>fc70ce17-3c7a-4d5f-a3e3-76d8b5e82a50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='checkbox'])[6]/preceding::span[1]</value>
+      <webElementGuid>737cdf39-62f8-4e71-afa5-e1f45f464062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='kamen raider'])[1]/preceding::span[1]</value>
+      <webElementGuid>77a8b7d0-8e88-4622-a1aa-c365e7f905f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Rejected']/parent::*</value>
+      <webElementGuid>e612a174-01c6-4cce-8557-b87ea52b71ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[8]/span</value>
+      <webElementGuid>4005c020-fbfb-4915-9ed8-5f6eaf8dac8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Rejected' or . = 'Rejected')]</value>
+      <webElementGuid>0cb9a51a-1984-4db8-b617-795d0e43d01e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

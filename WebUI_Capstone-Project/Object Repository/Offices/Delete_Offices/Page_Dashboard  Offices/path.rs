@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>a5c11ab5-43cb-4986-a3fd-dda096e6cdad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>8b41de3d-410a-4872-9959-7828abeeb51b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zm2.46-7.12 1.41-1.41L12 12.59l2.12-2.12 1.41 1.41L13.41 14l2.12 2.12-1.41 1.41L12 15.41l-2.12 2.12-1.41-1.41L10.59 14l-2.13-2.12zM15.5 4l-1-1h-5l-1 1H5v2h14V4z</value>
+      <webElementGuid>ab661c0d-24af-4c0b-b3b7-640a92dd6b04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;bg-slate-50&quot;]/div[@class=&quot;flex&quot;]/main[1]/div[@class=&quot;flex content-center justify-center&quot;]/div[@class=&quot;pl-80 duration-500 pt-20 flex justify-center w-screen&quot;]/div[@class=&quot;p-12 bg-slate-50 mb-4 container text-black w-full&quot;]/div[@class=&quot;pb-8 pt-4&quot;]/div[@class=&quot;z-10&quot;]/div[@class=&quot;overflow-x-auto relative shadow-md sm:rounded-2xl&quot;]/table[@class=&quot;w-full text-sm text-left text-gray-500&quot;]/tbody[1]/tr[@class=&quot;bg-white border-b hover:bg-gray-50&quot;]/td[@class=&quot;py-4 px-6 flex gap-2 items-center justify-center&quot;]/button[@class=&quot;px-2 py-2 font-medium bg-slate-100 hover:underline rounded-lg hover:bg-red-700 text-white&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeMedium text-slate-500 hover:text-white css-vubbuv&quot;]/path[1]</value>
+      <webElementGuid>dcbbd5e3-770e-470f-b135-fa109d60e09b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>f45251ee-082a-4f86-9892-d17aa6749f2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zm2.46-7.12 1.41-1.41L12 12.59l2.12-2.12 1.41 1.41L13.41 14l2.12 2.12-1.41 1.41L12 15.41l-2.12 2.12-1.41-1.41L10.59 14l-2.13-2.12zM15.5 4l-1-1h-5l-1 1H5v2h14V4z</value>
+      <webElementGuid>b0b1a73f-e5a5-4b78-9509-74582cc5d77c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;bg-slate-50&quot;]/div[@class=&quot;flex&quot;]/main[1]/div[@class=&quot;flex content-center justify-center&quot;]/div[@class=&quot;pl-80 duration-500 pt-20 flex justify-center w-screen&quot;]/div[@class=&quot;p-12 bg-slate-50 mb-4 container text-black w-full&quot;]/div[@class=&quot;pb-8 pt-4&quot;]/div[@class=&quot;z-10&quot;]/div[@class=&quot;overflow-x-auto relative shadow-md sm:rounded-2xl&quot;]/table[@class=&quot;w-full text-sm text-left text-gray-500&quot;]/tbody[1]/tr[@class=&quot;bg-white border-b hover:bg-gray-50&quot;]/td[@class=&quot;py-4 px-6 flex gap-2 items-center justify-center&quot;]/button[@class=&quot;px-2 py-2 font-medium bg-slate-100 hover:underline rounded-lg hover:bg-red-700 text-white&quot;]/svg[@class=&quot;MuiSvgIcon-root MuiSvgIcon-fontSizeMedium text-slate-500 hover:text-white css-vubbuv&quot;]/path[1]</value>
+      <webElementGuid>a2364fa1-333c-4187-a11b-87a935db357f</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

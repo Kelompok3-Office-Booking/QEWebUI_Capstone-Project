@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCDelete_Offices_Negative</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5ff03bbf-0c39-4bdb-bea5-a58f52f4adba</testCaseGuid>
+</TestCaseEntity>

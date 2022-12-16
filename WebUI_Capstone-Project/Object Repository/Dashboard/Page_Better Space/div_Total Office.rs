@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Total Office</name>
+   <tag></tag>
+   <elementGuidId>8b6b1d43-64d9-4bc8-826c-a00769914990</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/main/div[2]/div/div/section/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.p-8.pt-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b262963-0a5e-4394-9f0e-60414bcf7d35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-8 pt-5</value>
+      <webElementGuid>d6ee541f-8087-458d-98e4-f7998c92540f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total Office</value>
+      <webElementGuid>beea183d-3810-4d0e-8f04-07850fd1ab83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;bg-slate-50&quot;]/div[@class=&quot;flex&quot;]/main[1]/div[@class=&quot;flex content-center justify-center&quot;]/div[@class=&quot;pl-80 duration-500 pt-20 flex justify-center w-screen&quot;]/div[@class=&quot;p-12 bg-slate-50 mb-4 container text-black w-full&quot;]/section[@class=&quot;flex gap-4 mt-10&quot;]/div[@class=&quot;w-1/2 bg-white rounded-xl drop-shadow-4xl&quot;]/div[@class=&quot;p-8 pt-5&quot;]</value>
+      <webElementGuid>6d137c3d-46a9-46d9-b77e-441c25aedfe8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div[2]/div/div/section/div[2]/div</value>
+      <webElementGuid>5ec65dac-4ef4-44e2-b2a5-86f649ebffb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yearly'])[1]/following::div[2]</value>
+      <webElementGuid>7ce6cc85-df3b-487e-8f7c-af3f7b54d3fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly'])[1]/following::div[2]</value>
+      <webElementGuid>2cb197e1-5eeb-4b63-856b-d3957c5ce67d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recent Status Booking'])[1]/preceding::div[2]</value>
+      <webElementGuid>94d3b7b4-1dc2-451f-bede-d81b43edbac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/div</value>
+      <webElementGuid>d8f8d8cc-e730-4e79-b3eb-8ad69b506054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Total Office' or . = 'Total Office')]</value>
+      <webElementGuid>435e1c84-bb1a-4cf8-b897-11773b213de6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

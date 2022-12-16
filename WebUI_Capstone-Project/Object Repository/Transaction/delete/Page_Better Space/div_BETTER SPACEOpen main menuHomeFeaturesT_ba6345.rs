@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BETTER SPACEOpen main menuHomeFeaturesT_ba6345</name>
+   <tag></tag>
+   <elementGuidId>3bb9f344-4401-49c7-bb11-61fa9bee1e33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/nav/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.container.flex.flex-wrap.items-center.justify-between.mx-auto</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>eb4bf9b1-d114-4b5a-b4e4-ac9ef505ffd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container flex flex-wrap items-center justify-between mx-auto</value>
+      <webElementGuid>cd053e13-3fc7-4788-b4d8-750c6e69ba14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BETTER SPACEOpen main menuHomeFeaturesTestimonialsStepAbout usTeam ReactGet Now</value>
+      <webElementGuid>7ba7efb6-fa63-4fbb-8e46-14ef7c8f2de6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[1]/nav[@class=&quot;bg-white transition ease-in-out duration-300 active px-2 sm:px-4 py-2.5 fixed w-full z-20 top-0 left-0&quot;]/div[@class=&quot;container flex flex-wrap items-center justify-between mx-auto&quot;]</value>
+      <webElementGuid>1c6fccdf-02df-45f6-a6e3-340a23161b54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/nav/div</value>
+      <webElementGuid>baa0d5ff-e4c6-495c-9ee9-d382c75b2260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div</value>
+      <webElementGuid>c4228599-145b-406a-b733-6a2cd53bcbd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BETTER SPACEOpen main menuHomeFeaturesTestimonialsStepAbout usTeam ReactGet Now' or . = 'BETTER SPACEOpen main menuHomeFeaturesTestimonialsStepAbout usTeam ReactGet Now')]</value>
+      <webElementGuid>0a5806ac-1d43-424f-b89b-6da9a8c48a3f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

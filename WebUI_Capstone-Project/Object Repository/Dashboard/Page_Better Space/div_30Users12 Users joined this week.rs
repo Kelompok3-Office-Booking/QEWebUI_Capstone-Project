@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_30Users12 Users joined this week</name>
+   <tag></tag>
+   <elementGuidId>5295f07d-4e09-4965-8ddd-2168e5d19b28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/main/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>254315da-7886-49e6-b36f-f9ad0f0ccdfe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-wrap flex-row sm:flex-col justify-center items-center w-full sm:w-1/4 p-3 bg-white rounded-2xl drop-shadow-4xl</value>
+      <webElementGuid>b0e9d9f8-8412-4403-83ba-bee85cf8ce50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>30Users12 Users joined this week</value>
+      <webElementGuid>1f82d1de-86c1-47a1-bd6b-4bc7fdb5a1e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;bg-slate-50&quot;]/div[@class=&quot;flex&quot;]/main[1]/div[@class=&quot;flex content-center justify-center&quot;]/div[@class=&quot;pl-80 duration-500 pt-20 flex justify-center w-screen&quot;]/div[@class=&quot;p-12 bg-slate-50 mb-4 container text-black w-full&quot;]/div[@class=&quot;flex gap-4 mt-2&quot;]/div[@class=&quot;flex flex-wrap flex-row sm:flex-col justify-center items-center w-full sm:w-1/4 p-3 bg-white rounded-2xl drop-shadow-4xl&quot;]</value>
+      <webElementGuid>5939a3a1-0500-4190-ba1d-95921eb5cf65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div[2]/div/div/div/div</value>
+      <webElementGuid>753f01bb-e6e7-40ed-a934-0c599b3fce47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::div[5]</value>
+      <webElementGuid>02b7489a-2f07-4416-96ec-dab10c004009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard / ini nanti link'])[1]/following::div[8]</value>
+      <webElementGuid>5aedf6dd-ec8c-4f63-8ac3-935bf8df922d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>af1f665c-0954-460c-9293-a1106de26488</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '30Users12 Users joined this week' or . = '30Users12 Users joined this week')]</value>
+      <webElementGuid>365f2c44-5a6d-4792-b544-69ead3b7b8e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

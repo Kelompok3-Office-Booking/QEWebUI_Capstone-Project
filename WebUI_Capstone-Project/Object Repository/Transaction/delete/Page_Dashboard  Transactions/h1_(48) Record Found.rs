@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_(48) Record Found</name>
+   <tag></tag>
+   <elementGuidId>e8244c27-910d-44a5-8ddd-b032cd6b8b92</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/main/div[2]/div/div/div/div[2]/div/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.inline.pr-4.text-base.my-auto.text-neutral-500</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>03ec4aa8-b0c3-4e51-b0d3-78243ca1bbc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline pr-4 text-base my-auto text-neutral-500</value>
+      <webElementGuid>70172e36-bd9c-45d6-b705-04a5555a8344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(48) Record Found</value>
+      <webElementGuid>498a55b8-5a33-435b-9874-9937c2efebf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;bg-slate-50&quot;]/div[@class=&quot;flex&quot;]/main[1]/div[@class=&quot;flex content-center justify-center&quot;]/div[@class=&quot;pl-80 duration-500 pt-20 flex justify-center w-screen&quot;]/div[@class=&quot;p-12 bg-slate-50 mb-4 container text-black w-full&quot;]/div[@class=&quot;min-h-screen&quot;]/div[@class=&quot;overflow-x-auto relative shadow-md rounded-2xl&quot;]/div[@class=&quot;flex justify-between items-center rounded-2xl py-4 bg-white px-4&quot;]/div[@class=&quot;flex&quot;]/h1[@class=&quot;inline pr-4 text-base my-auto text-neutral-500&quot;]</value>
+      <webElementGuid>a9b188bd-40f9-4c88-8779-fd48f84ee12e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/main/div[2]/div/div/div/div[2]/div/div/h1</value>
+      <webElementGuid>a8c07ba1-2279-4817-8b62-8acd9f43a16b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction'])[2]/following::h1[1]</value>
+      <webElementGuid>49e1a50a-73f6-4f01-b0f0-e3c716edbf26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::h1[2]</value>
+      <webElementGuid>9b0cfd2c-2e85-44c1-ba70-d5f8fa796f77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::h1[1]</value>
+      <webElementGuid>aef2d028-57af-42eb-8fa6-5d9f53825d2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='checkbox'])[1]/preceding::h1[1]</value>
+      <webElementGuid>35552417-3386-409e-94a9-9a98a4fc2d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(']/parent::*</value>
+      <webElementGuid>0dee515a-2c4e-4adb-9641-ca62b12fe575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/h1</value>
+      <webElementGuid>6e75f85c-aa83-4233-bc0b-4c7ace0ed9ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = '(48) Record Found' or . = '(48) Record Found')]</value>
+      <webElementGuid>4a2d2a82-7bbf-4446-8bc7-6a21f0fc9ddc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

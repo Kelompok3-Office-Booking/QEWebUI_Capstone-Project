@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_BETTER SPACE</name>
+   <tag></tag>
+   <elementGuidId>475f1c71-38d6-44f8-ac11-029ef8064f95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h4.visible.w-full.my-auto.font-bold.text-xl.ml-3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/aside/div/div/div/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>051c02b1-d0b9-40d8-8053-355d25da1294</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>visible w-full my-auto font-bold text-xl ml-3</value>
+      <webElementGuid>b6ffed80-87d6-4165-aeb9-78c52e432949</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BETTER SPACE</value>
+      <webElementGuid>6f8a6cab-d564-403b-a5e6-a877f0d654ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;bg-slate-50&quot;]/div[@class=&quot;flex&quot;]/aside[@class=&quot;fixed z-30&quot;]/div[@class=&quot;bg-slate-900&quot;]/div[@class=&quot;bg-white min-h-screen rounded-tr-[75px]&quot;]/div[@class=&quot;w-80 duration-200 ease-in-out duration-300 py-12&quot;]/div[@class=&quot;flex w-auto pl-16 mr-8&quot;]/h4[@class=&quot;visible w-full my-auto font-bold text-xl ml-3&quot;]</value>
+      <webElementGuid>c7487224-b11a-4ba5-ab53-9de974d50920</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/aside/div/div/div/div/h4</value>
+      <webElementGuid>5593ad46-3d62-46ac-9daa-4d6e6ac9fb6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard / ini nanti link'])[1]/preceding::h4[1]</value>
+      <webElementGuid>6d4c6f34-dd31-4d51-9bec-072098538240</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::h4[1]</value>
+      <webElementGuid>785364f1-6c2c-4053-926b-989425d58a7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BETTER SPACE']/parent::*</value>
+      <webElementGuid>ca3e78a6-1fd7-4bc1-a6bf-def7157acd0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h4</value>
+      <webElementGuid>5e795ffa-3389-4d4e-992c-f02072b75643</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'BETTER SPACE' or . = 'BETTER SPACE')]</value>
+      <webElementGuid>8877858e-43f5-4174-94b0-9e93ba10d673</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

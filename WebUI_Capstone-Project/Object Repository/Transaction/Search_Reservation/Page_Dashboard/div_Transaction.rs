@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Transaction</name>
+   <tag></tag>
+   <elementGuidId>ec2dee08-6e95-4c7b-88d8-12de536100a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/aside/div/div/div/div[3]/div/a[4]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1ec0fb6a-ed48-4835-a137-1b1a8584d902</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex py-4 pl-16 mr-8</value>
+      <webElementGuid>ba11e118-d4f0-4ab8-a05e-086ecf239ba9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaction</value>
+      <webElementGuid>b5dfb28d-a2d3-4613-a677-f9756be4e381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;bg-slate-50&quot;]/div[@class=&quot;flex&quot;]/aside[@class=&quot;fixed z-30&quot;]/div[@class=&quot;bg-slate-900&quot;]/div[@class=&quot;bg-white min-h-screen rounded-tr-[75px]&quot;]/div[@class=&quot;w-80 duration-200 ease-in-out duration-300 py-12&quot;]/div[3]/div[@class=&quot;flex flex-col font-semibold text-gray-500 justify-start&quot;]/a[4]/div[@class=&quot;my-auto text-lg&quot;]/div[@class=&quot;flex py-4 pl-16 mr-8&quot;]</value>
+      <webElementGuid>f8e0fbf0-feb7-4653-a6ff-92d622b17e6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/aside/div/div/div/div[3]/div/a[4]/div/div</value>
+      <webElementGuid>df0d88a0-ab82-4c94-80ce-0df6da249287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BETTER SPACE'])[1]/following::div[14]</value>
+      <webElementGuid>eb99f576-7c52-4132-bef6-1c2275e94e84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/div/div</value>
+      <webElementGuid>d2e5cf5b-f69f-4670-a79a-4166b01000d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Transaction' or . = 'Transaction')]</value>
+      <webElementGuid>1ad0f64e-0bcb-496b-9a08-c43e3af2fad7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

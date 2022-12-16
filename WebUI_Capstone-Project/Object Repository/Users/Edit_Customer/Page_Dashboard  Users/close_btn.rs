@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>close_btn</name>
+   <tag></tag>
+   <elementGuidId>cc77dbde-f55e-4965-95ac-5d9755bf1dd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div/div/div/main/div[2]/div/div/div[2]/table/tbody/tr[1]/td[6]/div/div/div[1]/button/span/svg/path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div/div/div/main/div[2]/div/div/div[2]/table/tbody/tr[1]/td[6]/div/div/div[1]/button/span/svg/path</value>
+      <webElementGuid>04a666fe-958a-45a4-87c4-9421897a7cf5</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

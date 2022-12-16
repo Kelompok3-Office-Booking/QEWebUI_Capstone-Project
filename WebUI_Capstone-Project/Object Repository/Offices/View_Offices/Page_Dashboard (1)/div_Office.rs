@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Office</name>
+   <tag></tag>
+   <elementGuidId>ecfbd0a0-9be0-42b0-8da7-8305e4fc6418</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/aside/div/div/div/div[3]/div/a[3]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3ae76c67-0d20-4ff2-aec7-1648038305bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex py-4 pl-16 mr-8 </value>
+      <webElementGuid>911b1eae-2168-4e08-ac50-503d559a872f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Office</value>
+      <webElementGuid>24c91da9-f3c4-47c9-9b6d-ad7579d29d6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;bg-slate-50&quot;]/div[@class=&quot;flex&quot;]/aside[@class=&quot;fixed z-30&quot;]/div[@class=&quot;bg-slate-900&quot;]/div[@class=&quot;bg-white min-h-screen rounded-tr-[75px]&quot;]/div[@class=&quot;w-80 duration-200 ease-in-out duration-300 py-12&quot;]/div[3]/div[@class=&quot;flex flex-col font-semibold text-gray-500 justify-start&quot;]/a[3]/div[@class=&quot;my-auto text-lg&quot;]/div[@class=&quot;flex py-4 pl-16 mr-8&quot;]</value>
+      <webElementGuid>8d21ddc3-5ed1-469c-81da-c4a8a38bb2cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/aside/div/div/div/div[3]/div/a[3]/div/div</value>
+      <webElementGuid>95b1c0fd-db9b-4ff3-8a4a-b825c34c2639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BETTER SPACE'])[1]/following::div[11]</value>
+      <webElementGuid>d22c72d9-d316-4207-84eb-e591a2bbaedd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div/div</value>
+      <webElementGuid>5fb86c40-5f06-456b-9aa6-0f75d593aef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Office' or . = 'Office')]</value>
+      <webElementGuid>f1c43c26-e303-409a-96ef-2648cd4c3501</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

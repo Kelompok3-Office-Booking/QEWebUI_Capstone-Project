@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCDelete_Reservation_Positive</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74bd85a8-5034-4920-9bd2-f4f09b3c5623</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BETTER SPACEWelcome Admin,Lets login to_78b365</name>
+   <tag></tag>
+   <elementGuidId>8e96c930-7e47-487f-942b-d2d4192358a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c97d43c1-01e3-44fe-8764-da7cf0a978f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0</value>
+      <webElementGuid>6f9f87b4-dd14-4a5a-8990-aba0bf7b218d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BETTER SPACEWelcome Admin,Lets login to manage the appUsernamePasswordForgot your password?Forgot passwordLogin</value>
+      <webElementGuid>bab5fbbd-b97a-4c9e-b050-d328e7656c1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;App&quot;]/section[@class=&quot;bg-gray-50&quot;]/div[@class=&quot;flex items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0&quot;]</value>
+      <webElementGuid>f739ea92-fffe-4043-ac1f-152fd9a780ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/div</value>
+      <webElementGuid>350dc9a2-6ca8-4ebd-89ec-85af9eebbc9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div</value>
+      <webElementGuid>5f7c807e-779f-49f8-931d-0a0611a22d1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'BETTER SPACEWelcome Admin,Lets login to manage the appUsernamePasswordForgot your password?Forgot passwordLogin' or . = 'BETTER SPACEWelcome Admin,Lets login to manage the appUsernamePasswordForgot your password?Forgot passwordLogin')]</value>
+      <webElementGuid>0016f615-e9b5-4281-ae8e-09ed2967c0ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

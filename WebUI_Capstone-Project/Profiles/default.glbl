@@ -4,4 +4,24 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'admin1@gmail.com'</initValue>
+      <name>nameAdmin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Admin12345'</initValue>
+      <name>passAdmin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Admin1@gmail.com'</initValue>
+      <name>invalidName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'admin12345'</initValue>
+      <name>invalidPass</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
