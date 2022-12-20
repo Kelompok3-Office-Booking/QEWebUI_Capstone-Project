@@ -24,7 +24,9 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://ucbetterspace.netlify.app/login')
+WebUI.navigateToUrl('https://betterspace.netlify.app/')
+
+WebUI.click(findTestObject('Object Repository/OnBoarding/Page_Better Space/a_BETTER SPACE'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Login/Page_Better Space/button_Login'), 0)
 
@@ -56,7 +58,9 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://ucbetterspace.netlify.app/login')
+WebUI.navigateToUrl('https://betterspace.netlify.app/')
+
+WebUI.click(findTestObject('Object Repository/OnBoarding/Page_Better Space/a_BETTER SPACE'))
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Login/Page_Better Space/button_Login'), 0)
 

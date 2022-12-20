@@ -22,7 +22,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://ucbetterspace.netlify.app/')
+WebUI.navigateToUrl('https://betterspace.netlify.app/')
 
 WebUI.click(findTestObject('Object Repository/OnBoarding/Page_Better Space/a_BETTER SPACE'))
 

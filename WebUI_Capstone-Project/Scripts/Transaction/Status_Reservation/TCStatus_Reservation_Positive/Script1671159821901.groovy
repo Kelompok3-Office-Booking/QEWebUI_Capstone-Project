@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://ucbetterspace.netlify.app/')
+WebUI.navigateToUrl('https://betterspace.netlify.app/')
 
 WebUI.click(findTestObject('Object Repository/OnBoarding/Page_Better Space/a_BETTER SPACE'))
 
@@ -39,13 +39,7 @@ WebUI.click(findTestObject('Object Repository/Transaction/Status_Reservation/Pag
 
 WebUI.click(findTestObject('Object Repository/Transaction/Status_Reservation/Page_Dashboard  Transactions/span_On Process'))
 
-WebUI.click(findTestObject('Object Repository/Transaction/Status_Reservation/Page_Dashboard  Transactions/span_Pending'))
-
-WebUI.click(findTestObject('Object Repository/Transaction/Status_Reservation/Page_Dashboard  Transactions/span_Rejected'))
-
-WebUI.click(findTestObject('Object Repository/Transaction/Status_Reservation/Page_Dashboard  Transactions/span_Rejected'))
-
-WebUI.click(findTestObject('Object Repository/Transaction/Status_Reservation/Page_Dashboard  Transactions/span_Rejected'))
+WebUI.delay(2)
 
 WebUI.closeBrowser()
 

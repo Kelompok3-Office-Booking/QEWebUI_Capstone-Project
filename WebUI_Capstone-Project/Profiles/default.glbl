@@ -24,4 +24,9 @@
       <initValue>'admin12345'</initValue>
       <name>invalidPass</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://betterspace.netlify.app/'</initValue>
+      <name>globalUrl</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

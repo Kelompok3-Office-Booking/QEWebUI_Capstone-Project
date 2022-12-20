@@ -22,7 +22,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://ucbetterspace.netlify.app/')
+WebUI.navigateToUrl('https://betterspace.netlify.app/')
 
 WebUI.click(findTestObject('Object Repository/OnBoarding/Page_Better Space/a_BETTER SPACE'))
 
@@ -52,7 +52,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://ucbetterspace.netlify.app/')
+WebUI.navigateToUrl('https://betterspace.netlify.app/')
 
 WebUI.click(findTestObject('Object Repository/OnBoarding/Page_Better Space/a_BETTER SPACE'))
 
@@ -70,7 +70,8 @@ WebUI.click(findTestObject('Object Repository/Transaction/Edit_Reservation/Page_
 
 WebUI.click(findTestObject('Object Repository/Transaction/Edit_Reservation/Page_Dashboard  Transactions/button_Reset'))
 
-WebUI.click(findTestObject('Object Repository/Transaction/Edit_Reservation/Page_Dashboard  Transactions/svg_Pending_w-5 h-5'))
+WebUI.delay(2)
+//WebUI.click(findTestObject('Object Repository/Transaction/Edit_Reservation/Page_Dashboard  Transactions/svg_Pending_w-5 h-5'))
 
 WebUI.closeBrowser()
 
@@ -79,7 +80,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://ucbetterspace.netlify.app/')
+WebUI.navigateToUrl('https://betterspace.netlify.app/')
 
 WebUI.click(findTestObject('Object Repository/OnBoarding/Page_Better Space/a_BETTER SPACE'))
 

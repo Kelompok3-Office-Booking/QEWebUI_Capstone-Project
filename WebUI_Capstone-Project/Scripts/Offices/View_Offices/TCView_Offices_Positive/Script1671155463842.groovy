@@ -24,13 +24,17 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://ucbetterspace.netlify.app/login')
+WebUI.navigateToUrl('https://betterspace.netlify.app/')
+
+WebUI.click(findTestObject('Object Repository/OnBoarding/Page_Better Space/a_BETTER SPACE'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Login/Page_Better Space/button_Login'), 0)
 
 WebUI.setText(findTestObject('Object Repository/Login/Page_Better Space/input_Welcome Admin,_email'), GlobalVariable.nameAdmin)
 
 WebUI.setText(findTestObject('Object Repository/Login/Page_Better Space/input_Username_password'), GlobalVariable.passAdmin)
 
-WebUI.click(findTestObject('Object Repository/Offices/View_Offices/Page_Login Page (1)/button_Login'))
+WebUI.click(findTestObject('Object Repository/Login/Page_Better Space/button_Login'))
 
 WebUI.click(findTestObject('Object Repository/Offices/View_Offices/Page_Dashboard (1)/div_Office'))
 
@@ -46,11 +50,17 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://ucbetterspace.netlify.app/login')
+WebUI.navigateToUrl('https://betterspace.netlify.app/')
+
+WebUI.click(findTestObject('Object Repository/OnBoarding/Page_Better Space/a_BETTER SPACE'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Login/Page_Better Space/button_Login'), 0)
 
 WebUI.setText(findTestObject('Object Repository/Login/Page_Better Space/input_Welcome Admin,_email'), GlobalVariable.nameAdmin)
 
 WebUI.setText(findTestObject('Object Repository/Login/Page_Better Space/input_Username_password'), GlobalVariable.passAdmin)
+
+WebUI.click(findTestObject('Object Repository/Login/Page_Better Space/button_Login'))
 
 WebUI.click(findTestObject('Object Repository/Offices/View_Offices/Page_Dashboard/div_Office'))
 

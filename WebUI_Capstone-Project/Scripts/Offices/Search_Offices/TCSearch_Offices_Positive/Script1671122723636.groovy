@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('https://ucbetterspace.netlify.app/')
+WebUI.navigateToUrl('https://betterspace.netlify.app/')
 
 WebUI.click(findTestObject('Object Repository/OnBoarding/Page_Better Space/a_BETTER SPACE'))
 
@@ -33,7 +33,7 @@ WebUI.setText(findTestObject('Object Repository/Login/Page_Better Space/input_Us
 
 WebUI.click(findTestObject('Object Repository/Login/Page_Better Space/button_Login'))
 
-WebUI.click(findTestObject('Object Repository/Offices/Search_Offices/Page_Dashboard/div_Office'))
+WebUI.click(findTestObject('Object Repository/Offices/Create_Offices/Page_Dashboard/div_Office'))
 
 WebUI.setText(findTestObject('Object Repository/Offices/Search_Offices/Page_Dashboard  Offices/input_Search_table-search-users'), 
     'suropati')
